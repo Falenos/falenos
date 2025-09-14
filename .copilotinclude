@@ -1,0 +1,4 @@
+# Files to always include in GitHub Copilot context
+github-readme-stats-deployment.md
+README.md
+*.md

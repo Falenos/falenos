@@ -1,0 +1,23 @@
+{
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true
+    },
+    "github.copilot.chat.localeOverride": "en",
+    "files.associations": {
+        "*.md": "markdown"
+    },
+    "markdown.preview.doubleClickToSwitchToEditor": false,
+    "workbench.editorAssociations": {
+        "*.md": "default"
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true
+    },
+    "files.watcherExclude": {
+        "**/node_modules/**": true
+    }
+}
